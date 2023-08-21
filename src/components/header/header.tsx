@@ -10,7 +10,7 @@ export default function Header() {
       <header className="header">
         <div className="container">
           <nav className="header-menu">
-            <Link to={"/"} className="header-image">
+            <Link to={"/arome"} className="header-image">
               <img
                 src={require("../../images/logo-2.png")}
                 alt="Logo"
@@ -19,7 +19,7 @@ export default function Header() {
             </Link>
             <ul className="header-list">
               <li className="header-item">
-                <Link to="/" className="header-link">
+                <Link to="/arome" className="header-link">
                   Главная
                 </Link>
               </li>

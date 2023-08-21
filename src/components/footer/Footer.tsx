@@ -18,7 +18,7 @@ export default function Footer() {
           </image>
           <ul className="footer-list">
             <li className="footer-item">
-              <Link to="/" className="footer-link">
+              <Link to="/arome" className="footer-link">
                 Главная
               </Link>
             </li>
