@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/arome/static/css/main.5ee13b99.css",
+    "main.js": "/arome/static/js/main.e20a879b.js",
+    "static/media/Rectangle 35.png": "/arome/static/media/Rectangle 35.beeb4c7b0dc6ef613f74.png",
+    "static/media/bads.jpg": "/arome/static/media/bads.4595c8fc39337e729bdf.jpg",
+    "static/media/logo-2.png": "/arome/static/media/logo-2.848dd0bcef3a927ee86c.png",
+    "static/media/NRpdd7lLKCc.jpg": "/arome/static/media/NRpdd7lLKCc.2f36d1da275f54482abb.jpg",
+    "static/media/map.jpg": "/arome/static/media/map.3a70f80332fc27b787a4.jpg",
+    "static/media/parfume.jpg": "/arome/static/media/parfume.f24ff5c5e9f720f07ffe.jpg",
+    "static/media/Arome-logo.jpg": "/arome/static/media/Arome-logo.1955210641eb320a6973.jpg",
+    "static/media/CTRAQSHm94I.jpg": "/arome/static/media/CTRAQSHm94I.e5b4ab1630700812cb5b.jpg",
+    "index.html": "/arome/index.html",
+    "main.5ee13b99.css.map": "/arome/static/css/main.5ee13b99.css.map",
+    "main.e20a879b.js.map": "/arome/static/js/main.e20a879b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee13b99.css",
+    "static/js/main.e20a879b.js"
+  ]
+}
