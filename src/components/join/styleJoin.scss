@@ -1,0 +1,41 @@
+// ======== JOIN ===========
+
+.join {
+	padding: 70px 0px;
+	// .join__body
+
+	&__body {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+		gap: 50px;
+	}
+
+	// .join__images
+
+	&__images {
+		grid-column: 1/5;
+		display: grid; 
+	   grid-template-columns: 1fr 1fr 1fr; 
+	   grid-template-rows: 200px 200px; 
+	   gap: 0px 0px; 
+	   grid-template-areas: 
+	  ". . ."
+	  ". . ."; ;
+	}
+
+	// .join__image
+
+	&__image {
+	}
+}
+
+.images-join {
+	
+	// .images-join__img
+
+	&__img {
+		width: 100%;
+		height: 100%;
+
+	}
+}

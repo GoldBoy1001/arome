@@ -1,0 +1,84 @@
+// ========= Contacts ===========
+
+.contacts {
+	padding: 70px 0px;
+	// .contacts__title
+
+	&__title {
+		font-family: Raleway;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+margin-bottom: 40px;
+	}
+
+	// .contacts__body
+
+	&__body {
+	}
+}
+.body-contacts {
+
+	// .body-contacts__adres
+
+	&__adres {
+	}
+
+	// .body-contacts__phone
+
+	&__phone {
+	}
+
+	// .body-contacts__mail
+
+	&__mail {
+	}
+}
+.contacts-bg {
+	padding: 70px 100px;
+	background: #F4F1ED;
+	display: flex;
+	justify-content: space-between;
+
+}
+.item-body {
+	margin-bottom: 35px;
+	// .item-body__title
+
+	&__title {
+		font-size: 18px;
+		font-weight: 500;
+		margin-bottom: 10px;
+	}
+
+	// .item-body__text
+
+	&__text {
+		font-size: 18px;
+	}
+}
+
+.join-social {
+	font-size: 25px;
+	// .join-social__item
+
+	&__item + &__item{
+		margin-left: 20px;
+	}
+}
+
+.contacts {
+
+	// .contacts__map
+
+	&__map {
+		max-width: 670px;
+		padding: 0px 0px 0px 20px;
+	}
+
+	// .contacts__img
+
+	&__img {
+		width: 100%;
+	}
+}

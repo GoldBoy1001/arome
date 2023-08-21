@@ -1,0 +1,35 @@
+@import './nulestyle';
+
+// font-family: 'Raleway', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500&family=Raleway:wght@500&display=swap');
+
+#root {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+body {
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #122947;
+	background: #F8F8F6;
+}
+
+.container {
+	max-width: 1230px;
+	padding: 0px 15px;
+	margin: 0 auto;
+}
+
+
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-divider-horizontal {
+    display: flex;
+    clear: both;
+    width: 100%;
+    min-width: 100%;
+    margin: 0;
+}
+

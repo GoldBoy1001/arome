@@ -1,0 +1,68 @@
+.card{
+	padding: 80px 0px;
+	flex: 1 1 auto;
+}
+
+
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-card .ant-card-meta-title {
+font-family: Raleway;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 125%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+:where(.css-dev-only-do-not-override-byeoj0).ant-card .ant-card-meta-description {
+	color: #9A9DA0;
+line-height: 145%; 
+margin-bottom: 45px;
+}
+.card-radio {
+	margin-bottom: 45px;
+}
+.card-text {
+	max-width: 274px;
+	margin-bottom: 45px;
+}
+
+.card-radio_text {
+	margin-right: 20px;
+}
+.ant-radio-checked .ant-radio-inner{
+	border-color: #122947 !important ;
+	background-color: #122947 !important;
+ }
+.ant-radio:hover .ant-radio-checked .ant-radio-inner{
+	border-color: #122947 !important ;
+ }
+
+ .ant-radio:hover .ant-radio-inner,
+ .ant-radio-checked .ant-radio-inner:focus,
+ .ant-radio-wrapper:hover .ant-radio-inner {
+	 border-color: #122947 !important;
+ }
+.card-sum{
+	margin-right: 75px;
+	
+}
+
+.card-btn{
+	border-radius: 2px;
+   border: 1px solid #B3BAC1;
+	padding: 15px 25px;
+	transition: .5s;
+}
+.card-btn:hover{
+	border-radius: 2px;
+   background: #122947;
+	color: #F8F8F6;
+}
+
+
+
+
+
